@@ -1,0 +1,587 @@
+@charset "utf-8";
+@media only screen and (min-width : 1901px) {
+    .more-plastic .container {
+        max-width: 1400px;
+    }
+}
+
+@media only screen and (min-width : 1680px) and (max-width : 1900px) {
+    .more-plastic .container {
+        max-width: 1350px;
+    }
+    section.initiative::after {
+        height: 44%;
+    }
+}
+
+@media only screen and (min-width : 1440px) and (max-width : 1679px) {
+    .more-plastic .container {
+        max-width: 1250px;
+    }
+    section.initiative::after {
+        height: 44%;
+    }
+    .slide-img {
+        max-height: 400px;
+    }
+    .slide-caption {
+        margin-right: -3rem;
+        margin-left: -15rem;
+    }
+    section.initiative::after {
+        height: 42.5%;
+    }
+}
+
+@media only screen and (min-width : 1366px) and (max-width : 1439px) {
+    /* Slider */
+    rs-layer#slider-1-slide-1-layer-0 img {
+        max-width: 300px !important;
+        height: auto !important;
+    }
+    section.slider h2 {
+        font-size: 3rem !important;
+        line-height: 3.5rem !important;
+    }
+    h2#slider-1-slide-3-layer-2 {
+        margin-top: -5rem;
+    }
+    rs-layer#slider-1-slide-3-layer-6 {
+        margin-top: -6.5rem;
+    }
+    rs-sbg {
+        background-size: contain !important;
+    }
+    section.slider {
+        max-height: 100vh;
+    }
+    /* Slider ends */
+    section.initiative::after {
+        height: 40%;
+    }
+    .slide-caption h2 {
+        font-size: 1.8rem;
+    }
+    .rethink-plastic::after {
+        height: 20%;
+    }
+    .slide-item {
+        margin-bottom: .5rem;
+    }
+        a#slider-1-slide-3-layer-6 {
+    margin-top: -100% !important;
+}
+}
+
+@media only screen and (min-width : 1200px) and (max-width : 1365px) {
+     /* Slider */
+     rs-layer#slider-1-slide-1-layer-0 img {
+        max-width: 300px !important;
+        height: auto !important;
+    }
+    section.slider h2 {
+        font-size: 3rem !important;
+        line-height: 3.5rem !important;
+    }
+    h2#slider-1-slide-3-layer-2 {
+        margin-top: -5rem;
+    }
+    rs-layer#slider-1-slide-3-layer-6 {
+        margin-top: -6.5rem;
+    }
+    rs-sbg {
+        background-size: contain !important;
+        background-position: top center !important;
+    }
+    section.slider, rs-module#rev_slider_1_1 {
+        max-height: 694px;
+        height: 100%;
+    }
+    a#slider-1-slide-3-layer-6 {
+        margin-top: -110% !important;
+    }
+    /* rs-layer-wrap.rs-parallax-wrap {
+        top: 560px !important;
+    }
+    rs-layer#slider-1-slide-1-layer-0 {
+        transform: translateY(-105%) !important;
+    } */
+    /* rs-module#rev_slider_1_1 {
+        height: 100vh !important;
+    } */
+    .scroll-down {
+        bottom: 6vh;
+    }
+    /* Slider ends */
+    section.initiative::after {
+        height: 40%;
+    }
+    .slide-caption h2 {
+        font-size: 1.8rem;
+    }
+    .rethink-plastic::after {
+        height: 20%;
+    }
+    .slide-item {
+        margin-bottom: .5rem;
+    }
+
+}
+
+@media only screen and (min-width : 992px) and (max-width : 1020px) {
+}
+
+@media only screen and (min-width : 1021px) and (max-width : 1199px) {
+     /* Slider */
+     rs-layer#slider-1-slide-1-layer-0 img {
+        max-width: 300px !important;
+        height: auto !important;
+    }
+    section.slider h2 {
+        font-size: 3rem !important;
+        line-height: 3.5rem !important;
+    }
+    h2#slider-1-slide-3-layer-2 {
+        margin-top: -5rem;
+    }
+    rs-layer#slider-1-slide-3-layer-6 {
+        margin-top: -6.5rem;
+    }
+    rs-sbg {
+        background-size: contain !important;
+    }
+    section.slider {
+        max-height: 100vh;
+    }
+    rs-module#rev_slider_1_1 {
+        height: 100vh !important;
+    }
+    .scroll-down {
+        bottom: 12vh;
+    }
+    /* Slider ends */
+}
+
+@media only screen and (min-width : 992px) and (max-width : 1199px) {
+    body {
+        font-size: 1rem;
+      }
+      .navbar-light .navbar-nav .nav-link {
+        font-size: 1.4rem;
+    }
+    h2.title {
+        font-size: 2rem;
+    }
+    .btn {
+        font-size: 1.6rem;
+    }
+    .lead {
+        font-size: 1.2rem;
+    }
+    section.initiative::after {
+        height: 40%;
+    }
+    .mythbtns {
+        margin-top: 3rem;
+    }
+    .rethink-text {
+        max-width: 300px;
+    }
+    .rethink-text {
+        max-width: 300px;
+    }
+    .slide-caption h2 {
+        font-size: 2rem;
+    }
+    .slide-caption {
+        margin-left: -15rem;
+    }
+    button.mythbtn {
+        font-size: 2rem;
+    }
+    .myth h3 {
+        font-size: 1.8rem;
+    }
+    .responsible h2 {
+        font-size: 3.4rem;
+    }
+    .take-pledge h2 {
+        font-size: 6rem;
+        line-height: 5.5rem;
+    }
+    .take-pledge h3 {
+        font-size: 1.25rem;
+    }
+    .slide-img {
+        max-height: 450px;
+    }
+    .blog-item h3 {
+        font-size: 1.3rem;
+    }
+    .tiktok-icon {
+        width: 26px;
+        height: 26px;
+    }
+    .footer-social h3 {
+        font-size: 1.8rem;
+    }
+    .footer-social ul li i {
+        font-size: 1.8rem;
+    }
+    .footer-brand img {
+        max-width: 70px;
+    }
+    .copyright {
+        font-size: .75rem;
+    }
+    .rethink-plastic::after {
+        height: 25%;
+    }
+
+}
+@media screen and (max-width: 992px) {
+    div#navbarSupportedContent {
+    background: #fff;
+    padding-left: 2rem;
+    padding-bottom: 1.5rem;
+    padding-top: 1rem;
+}
+     /* Slider */
+     rs-layer#slider-1-slide-1-layer-0 img {
+        max-width: 300px !important;
+        height: auto !important;
+    }
+    section.slider h2 {
+        font-size: 2.6rem !important;
+        line-height: 3rem !important;
+    }
+    h2#slider-1-slide-3-layer-2 {
+        margin-top: -5rem;
+    }
+    rs-layer#slider-1-slide-3-layer-6 {
+        margin-top: -2rem !important;
+    }
+    rs-sbg {
+        background-position: top center !important;
+    }
+    .scroll-down {
+        bottom: 7vh;
+    }
+    /* Slider ends */
+    section.slider {
+        max-height: 100vh;
+        top: 90px;
+        margin-bottom: 180px;
+    }
+    .navbar {
+        justify-content: right;
+        max-width: 100%;
+        float: right;
+    }
+    button.navbar-toggler {
+        margin-top: 10px;
+    }
+    ul.navbar-nav.ml-auto {
+        margin-left: 0 !important;
+    }
+    .rethink-container {
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    .slide-img {
+        max-height: 350px;
+    }
+    .rethink-plastic::after {
+        height: 20%;
+    }
+    .slide-item {
+        justify-content: space-between;
+    }
+    .slide-caption {
+        margin-right: 0;
+        margin-left: 0;
+    }
+    .slide-caption h2 {
+        font-size: 2rem;
+    }
+    .contact-us-form {
+        padding: 3.5rem 5rem;
+    }
+    .rethink-text {
+        max-width: 100%;
+    }
+    
+}
+@media only screen and (min-width : 992px) and (max-width : 1020px) {
+}
+
+@media only screen and (min-width : 768px) and (max-width : 991px) {
+}
+
+@media only screen and (min-width : 640px) and (max-width : 767px) {
+    .blog-inner {
+    margin-top: 15rem;
+}
+}
+
+@media only screen and (min-width: 577px) and (max-width: 639px) {
+    html {
+        font-size: 12px;
+    }
+    .blog-inner {
+    margin-top: 15rem;
+}
+}
+
+@media screen and (max-width: 480px) {
+    html {
+        font-size: 12px;
+    }
+    .general {
+        margin: 3rem 0 0 0;
+    }
+
+}
+
+@media only screen and (min-width : 767px) and (max-width: 992px) {
+}
+
+@media only screen and (min-width : 851px) and (max-width : 920px) {
+}
+
+@media only screen and (min-width : 921px) and (max-width : 992px) {
+}
+
+@media only screen and (min-width : 993px) and (max-width : 1020px) {
+}
+
+@media only screen and (min-width : 1021px) and (max-width : 1120px) {
+}
+
+@media only screen and (min-width : 851px) and (max-width : 1199px) {
+}
+
+@media only screen and (min-width : 768px) and (max-width : 850px) {
+	
+}
+
+@media only screen and (min-width : 950px) and (max-width : 1199px) {
+}
+
+@media only screen and (min-width : 950px) and (max-width : 1199px) {
+}
+
+@media only screen and (min-width : 851px) and (max-width : 949px) {
+}
+
+@media only screen and (max-width : 767px) {
+    .brand {
+        max-width: 60px;
+    }
+    .header {
+        height: 60px;
+    }
+    section.slider {
+        max-height: max-content;
+        top: 60px;
+        margin-bottom: 0;
+    }
+    .navbar-toggler {
+        padding: 0 0.5rem !important;
+        margin-top: 0 !important;
+    }
+    .scroll-down img {
+        max-width: 20px;
+    }
+    .scroll-down {
+        bottom: 85px;
+        font-size: .75rem;
+        line-height: .8rem;
+        display: none;
+    }
+    /* .scroll-down span {
+        display: none;
+    } */
+    section.slider h2 {
+        font-size: 1.8rem !important;
+        line-height: 2.4rem !important;
+    }
+    rs-layer#slider-1-slide-3-layer-6 {
+        margin-top: -3rem !important;
+    }
+    .pl-2r {
+        padding-left: 15px;
+    }
+    .slide-item {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .slide-caption {
+        display: flex;
+        order: 2;
+    }
+    .contact-us-form form input {
+        max-width: 100%;
+    }
+    .contact-us-form {
+        padding: 2rem 3rem;
+    }
+    .blog-item {
+        margin-bottom: 2.5rem;
+    }
+    rs-sbg {
+        background-size: contain !important;
+    }
+    .responsible h2 {
+        font-size: 3rem;
+    }
+    .take-pledge h2 {
+        font-size: 6rem;
+        margin-bottom: 0;
+        line-height: 5rem;
+        text-align: center;
+    }
+    .input-50 {
+        width: 100%;
+        padding-right: 0;
+    }
+}
+@media only screen and (max-width : 640px) {
+    .pledge-container {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 1.5rem;
+    }
+    .scroll-down img {
+        max-width: 22px;
+    }
+    .scroll-down {
+        font-size: 1rem;
+    }
+    header.header .col-md-2.col-sm-4 {
+        width: 40%;
+    }
+    header.header .col-md-10.col-sm-8 {
+        width: 60%;
+    }
+    .navbar-toggler {
+        padding: 0.25rem 0.5rem;
+        font-size: 1rem;
+    }
+    .navbar-toggler-icon {
+        width: 1.3em;
+        height: 1.3em;
+    }
+    .brand {
+        max-width: 70px;
+        padding-top: 1rem;
+    }
+    .header {
+        height: 70px;
+    }
+    section.slider {
+        top: 70px;
+    }
+    button.navbar-toggler {
+        margin-top: 5px;
+    }
+    .general {
+        margin: 4rem 0 0 0;
+    }
+    section.slider {
+        top: 70px;
+        margin-bottom: 100px;
+    }
+    section.initiative::after {
+        height: 23%;
+    }
+    h2.title {
+        margin-bottom: 1.5rem;
+        font-size: 2.5rem;
+    }
+    .next {
+        margin-left: -60px;
+    }
+    .tiktok-icon {
+        width: 26px;
+        height: 26px;
+    }
+   .blog-inner {
+    margin-top: 15rem;
+}
+}
+
+
+
+@media only screen and (min-width : 640px) and (max-width : 767px) {
+}
+
+@media only screen and (min-width : 575px) and (max-width : 639px) {
+}
+
+@media only screen and (min-width : 480px) and (max-width : 576px) {
+}
+
+@media only screen and (min-width : 381px) and (max-width : 479px) {
+}
+@media only screen and (max-width : 480px) {
+    .brand {
+        max-width: 45px;
+    }
+    .header {
+        height: 50px;
+    }
+    .slidehbuttongreen {
+        font-size: 11px !important;
+        padding: 3px 5px;
+    }
+    .header.sticky-header .brand {
+        max-width: 20px;
+        padding-top: 10px;
+    }
+    section.slider {
+        top: 45px;
+    }
+}
+@media only screen and (max-width : 380px) {
+}
+
+
+@media all and (device-width: 1280px) and (device-height: 720px) and (orientation:landscape) {
+    /* Slider */
+    rs-layer#slider-1-slide-1-layer-0 img {
+        max-width: 300px !important;
+        height: auto !important;
+    }
+    section.slider h2 {
+        font-size: 3rem !important;
+        line-height: 3.5rem !important;
+    }
+    h2#slider-1-slide-3-layer-2 {
+        margin-top: -5rem;
+    }
+    rs-layer#slider-1-slide-3-layer-6 {
+        margin-top: -6.5rem;
+    }
+    rs-sbg {
+        background-size: contain !important;
+    }
+    /* Slider ends */
+}
+@media all and (device-width: 1280px) and (device-height: 800px) and (orientation:landscape) {
+.scroll-down {
+    bottom: 10vh;
+}
+}
+
+/* @media only screen and (min-height : 720px) and (max-height : 780px) {
+    rs-sbg {
+        background-size: contain !important;
+    }
+} */
